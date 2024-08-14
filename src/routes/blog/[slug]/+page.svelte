@@ -1,5 +1,7 @@
-<script>
-    export let data 
+<script lang='ts'>
+    export let data; 
 </script>
 
-<p>{data.content}</p>
+<div>
+    
+</div>
